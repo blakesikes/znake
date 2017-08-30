@@ -21,5 +21,6 @@ executable znake
                       ,brick
                       ,microlens
                       ,microlens-th
+                      ,random
                       ,vty
   ghc-options:         -O3 -threaded -with-rtsopts=-N
